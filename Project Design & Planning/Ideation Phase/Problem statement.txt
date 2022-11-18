@@ -1,0 +1,12 @@
+Problem Statement:
+
+* There are increasing pressures from climate change, soil erosion and biodiversity loss and 
+from consumers' changing tastes in food and concerns about how it is produced.
+
+* Large farm owners can benefit from IoT applications to collect data regarding the location, 
+well-being, and health of their cattle. 
+
+* This information helps them in identifying animals that are sick so they can be separated 
+from the herd, thereby preventing the spread of disease. 
+
+* It also lowers labor costs as ranchers can locate their cattle with the help of IoT based sensors.
